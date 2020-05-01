@@ -1,0 +1,151 @@
+#Abstract-Form, #Landscape-Form {display: none;}
+
+#wrapper { 
+	width: auto;
+	margin: 0 auto;
+	background-color:#3a8984 ; 
+	display: inline-block;
+	text-align: center; 
+	vertical-align: center;
+	justify-content: center;
+	height: auto;
+}
+
+div.form1{
+	width: auto;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#form { 
+	margin: 20%;
+	margin-bottom: 10%;
+	display: inline-block;
+	text-align: center; 
+	align-items: center;
+	justify-content: center;
+}
+
+.button {
+	color: white;
+	font-size: 16px;
+	background-color: #550000;
+}
+
+.search {
+	display: inline-block;
+	float: center;
+}
+
+.search-input {
+	float: left;
+}
+
+.search-submit {
+	float: left;
+	margin-left:10px;
+}
+
+.photo-form-input {
+	display: block;
+	text-align: center; 
+	align-items: center;
+	justify-content: center;
+}
+
+.new-form-input {
+	margin: 5px;
+}
+
+#submit-button {
+	background-color: #22AA22;
+	border: none;
+	color: white;
+	padding: 10px 16px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+	margin-bottom:4px;
+}
+
+#update {
+	background-color: #22AA22;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+#update-form, #delete-form {
+	margin:0;
+}
+
+#logout {
+	background-color: #AA0000;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+#delete {
+	background-color: #AA0000;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+#backbtn {
+	background-color: #AA0000;
+	border: none;
+	color: white;
+	padding: 10px 16px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+th, td {
+	border-bottom: 1px solid #ddd;
+	padding: 8px 8px;
+}
+
+table {
+	text-align: center;
+	display: inline-block;
+	padding: 20px 20px;
+	padding-top:0px;
+} 
